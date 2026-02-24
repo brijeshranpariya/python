@@ -1,3 +1,43 @@
+def create_user(user_details):
+    students.append(user_details)
+
+
+def display_users():
+    for std in students:
+        subjects = ", ".join(std["subjects"])
+        print(
+            f"\nStudent ID: {std['id']} | Name: {std['name']} | Age: {std['age']} | Grade: {std['grade']} | Subjects: {subjects}"
+        )
+
+
+def update_user(id):
+    std_details = ["name", "age", "grade", "dob", "subjects"]
+    fields = input(
+        "\nPlease enter the fields you want to update(comma-separated): "
+    ).split(",")
+    for std in students:
+        if std["id"] == id:
+            for field in fields:
+                if field in std_details:
+                    fieldName = input(f"\nEnter the new {field} of {std['name']}: ")
+                    if field == "subjects":
+                        std[field] = fieldName.split(",")
+                    else:
+                        std[field] = fieldName
+
+
+def delete_user(id):
+    for std in students:
+        if std["id"] == id:
+            students.remove(std)
+
+
+def display_offered_student(id):
+    for std in students:
+        if std["id"] == id:
+            print(" ,".join(std["subjects"]))
+
+
 print("Welcome to student Data Organizer!")
 students = []
 while True:
@@ -23,42 +63,23 @@ while True:
             "dob": (input("Date of Birth(YYYY-MM-DD):")),
             "subjects": ((input("Subjects (comma-separated):")).split(",")),
         }
-        students.append(student)
+        create_user(student)
         print("\nStudent Added Successfully!\n")
     elif choice == 2:
         if len(students) == 0:
             print("\nNo student found!\n")
         else:
-            for std in students:
-                subjects = ", ".join(std["subjects"])
-                print(
-                    f"\nStudent ID: {std['id']} | Name: {std['name']} | Age: {std['age']} | Grade: {std['grade']} | Subjects: {subjects}"
-                )
+            display_users()
     elif choice == 3:
-        std_details = ["name", "age", "grade", "dob", "subjects"]
         std_id = int(input("\nPlease enter the id of student: "))
-        fields = input(
-            "\nPlease enter the fields you want to update(comma-separated): "
-        ).split(",")
-        for std in students:
-            if std["id"] == std_id:
-                for field in fields:
-                    if field in std_details:
-                        fieldName = input(f"\nEnter the new {field} of {std['name']}: ")
-                        if field == "subjects":
-                            std[field] = fieldName.split(",")
-                        else:
-                            std[field] = fieldName
+        update_user(std_id)
+
     elif choice == 4:
         std_id = int(input("\nPlease enter the id of student: "))
-        for std in students:
-            if std["id"] == std_id:
-                students.remove(std)
-                print("\nStudent Deleted Successfully!\n")
+        delete_user(std_id)
+        print("\nStudent Deleted Successfully!\n")
     elif choice == 5:
         std_id = int(input("\nPlease enter the id of student: "))
-        for std in students:
-            if std["id"] == std_id:
-                print(" ,".join(std["subjects"]))
+        display_offered_student(std_id)
     else:
         print("\nInvalid Choice!")
