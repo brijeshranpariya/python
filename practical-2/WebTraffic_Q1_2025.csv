@@ -1,0 +1,601 @@
+VisitDate,SessionDuration,PageViews,ReferralSource,DeviceType,Platform,BounceRate,Conversions
+2025-03-17,140.78,3,Referral,Tablet,Windows,88.24,1
+2025-01-03,903.04,3,Paid Search,Tablet,Windows,48.78,0
+2025-02-25,395.02,5,Social Media,Mobile,macOS,51.13,0
+2025-01-29,273.88,6,Referral,Desktop,macOS,60.36,0
+2025-03-23,50.89,5,Organic Search,Mobile,Linux,88.83,1
+2025-01-12,,3,Paid Search,Desktop,iOS,36.91,0
+2025-03-16,17.95,5,Email,Tablet,iOS,67.69,0
+2025-03-03,603.37,3,Referral,Tablet,Windows,70.12,0
+2025-03-23,275.72,3,Paid Search,Desktop,Android,62.51,0
+2025-01-16,369.38,6,Direct,Desktop,macOS,26.2,0
+2025-01-28,6.24,5,Organic Search,Mobile,macOS,67.38,0
+2025-01-16,1051.07,6,Social Media,Desktop,Windows,24.49,0
+2025-01-02,535.93,2,Direct,Desktop,macOS,61.73,0
+2025-01-25,71.61,4,Direct,Desktop,Windows,71.77,0
+2025-01-11,60.2,7,Organic Search,Mobile,Linux,34.77,0
+2025-01-11,60.78,6,Social Media,Desktop,iOS,78.91,1
+2025-03-25,108.83,5,Email,Tablet,Android,22.12,0
+2025-01-17,223.18,4,Referral,Mobile,iOS,79.07,1
+2025-02-02,169.66,3,Social Media,Mobile,iOS,52.22,0
+2025-03-13,103.27,,Paid Search,Tablet,Linux,35.23,0
+2025-01-01,283.91,7,Direct,Tablet,macOS,29.36,0
+2025-01-22,45.07,7,Paid Search,Tablet,Android,86.73,0
+2025-01-23,103.65,6,Email,Desktop,macOS,25.09,0
+2025-01-17,136.88,6,Paid Search,Tablet,iOS,33.94,0
+2025-03-21,182.68,7,Social Media,Desktop,Windows,44.35,0
+2025-02-09,461.38,8,Paid Search,Mobile,iOS,63.42,0
+2025-01-15,66.82,6,Email,Mobile,macOS,58.14,0
+2025-03-20,216.61,3,Email,Tablet,iOS,28.8,1
+2025-02-20,269.25,7,Email,Desktop,Windows,40.28,0
+2025-01-22,14.27,5,Social Media,Tablet,Linux,36.71,1
+2025-03-27,280.6,5,Email,Tablet,macOS,34.95,0
+2025-01-17,56.09,7,Direct,Desktop,iOS,48.78,0
+2025-01-11,20.18,4,Email,Tablet,macOS,69.28,0
+2025-03-01,892.11,9,Paid Search,Mobile,Linux,35.22,0
+2025-03-02,1011.19,4,Referral,Tablet,iOS,45.67,0
+2025-01-11,495.7,5,Paid Search,Desktop,iOS,47.36,0
+2025-03-19,108.99,2,Referral,Desktop,macOS,88.35,0
+2025-01-06,30.83,6,Paid Search,Mobile,macOS,86.83,0
+2025-03-27,345.83,3,Social Media,Desktop,Windows,76.01,0
+2025-03-12,174.03,6,Paid Search,Desktop,Linux,36.92,0
+2025-02-13,39.05,2,Social Media,Mobile,Windows,24.76,0
+2025-01-17,205.06,3,Social Media,Tablet,iOS,42.18,0
+2025-03-11,10.5,5,Email,Mobile,macOS,38.68,0
+2025-03-20,720.13,3,Direct,Tablet,iOS,55.41,0
+2025-01-28,89.84,4,Referral,Mobile,iOS,74.44,0
+2025-03-02,325.88,5,Email,Tablet,Android,80.08,0
+2025-03-15,112.06,6,Email,Mobile,Android,79.14,0
+2025-02-16,220.23,3,Social Media,Tablet,iOS,45.18,0
+2025-03-04,237.37,3,Social Media,Mobile,macOS,68.11,1
+2025-03-27,61.32,4,Referral,Tablet,iOS,41.9,0
+2025-03-07,1047.84,5,Paid Search,Mobile,Android,24.26,0
+2025-03-23,447.67,4,Paid Search,Desktop,macOS,69.11,0
+2025-02-15,841.53,2,Email,Tablet,iOS,20.69,0
+2025-01-13,675.65,6,Organic Search,Mobile,Linux,48.64,0
+2025-01-13,273.32,6,Organic Search,Tablet,Linux,43.06,0
+2025-03-14,764.83,8,Paid Search,Tablet,iOS,68.54,0
+2025-01-30,27.8,1,Organic Search,Mobile,macOS,73.64,0
+2025-01-27,65.44,6,Paid Search,Tablet,iOS,41.29,0
+2025-03-24,13.88,2,Social Media,Mobile,iOS,76.81,0
+2025-01-23,118.06,5,Email,Desktop,Android,40.57,1
+2025-02-05,147.64,2,Direct,Tablet,Linux,51.24,0
+2025-01-15,94.97,6,Email,Desktop,Android,70.89,0
+2025-03-11,529.37,4,Paid Search,Tablet,Android,68.5,0
+2025-02-03,132.37,3,Paid Search,Tablet,iOS,89.12,0
+2025-03-20,98.94,5,Email,Tablet,Android,35.76,0
+2025-01-05,234.72,6,Referral,Mobile,Linux,66.36,0
+2025-01-25,45.57,3,Paid Search,Desktop,Android,62.68,0
+2025-03-26,486.15,4,Organic Search,Tablet,Linux,84.06,0
+2025-03-23,23.24,8,Organic Search,Mobile,Android,30.95,0
+2025-02-26,1300.24,4,Paid Search,Tablet,Linux,72.63,0
+2025-03-09,443.85,10,Paid Search,Mobile,Android,59.78,0
+2025-03-28,66.46,4,Referral,Tablet,Android,39.23,0
+2025-03-17,1.66,5,Organic Search,Desktop,macOS,53.21,0
+2025-01-17,506.97,10,Paid Search,Desktop,Linux,43.36,0
+2025-03-17,368.13,3,Paid Search,Tablet,Linux,60.55,0
+2025-02-10,391.7,4,Referral,Mobile,Linux,82.23,1
+2025-02-10,442.56,7,Referral,Tablet,Windows,59.85,0
+2025-03-08,23.08,5,Email,Mobile,Android,64.22,1
+2025-01-12,133.17,10,Referral,Tablet,Linux,56.31,0
+2025-03-13,36.95,4,Direct,Mobile,Windows,23.58,0
+2025-02-10,596.56,2,Organic Search,Desktop,macOS,36.3,0
+2025-01-21,292.89,3,Email,Tablet,Linux,54.44,1
+2025-01-14,120.55,5,Direct,Desktop,Linux,41.72,0
+2025-02-26,19.7,8,Paid Search,Desktop,Windows,32.72,0
+2025-03-26,111.75,4,Paid Search,Tablet,Android,55.29,0
+2025-02-16,117.99,3,Email,Tablet,macOS,42.6,0
+2025-02-12,392.36,8,Referral,Mobile,Linux,38.07,0
+2025-02-17,304.47,6,Paid Search,Mobile,Android,52.48,1
+2025-01-31,654.68,8,Social Media,Desktop,macOS,29.33,1
+2025-01-15,191.72,3,Email,Mobile,iOS,84.94,0
+2025-03-28,38.21,3,Direct,Mobile,iOS,80.74,1
+2025-02-15,374.74,5,Email,Tablet,macOS,69.53,0
+2025-01-15,429.12,11,Organic Search,Mobile,Windows,27.43,0
+2025-02-28,247.17,7,Referral,Desktop,macOS,74.31,0
+2025-03-29,442.17,4,Referral,Mobile,macOS,76.56,0
+2025-02-13,204.24,3,Email,Desktop,Windows,73.74,1
+2025-02-28,221.9,8,Paid Search,Tablet,Windows,27.98,0
+2025-01-23,167.34,,Paid Search,Desktop,Android,65.07,0
+2025-03-17,7.72,3,Social Media,Mobile,Android,78.4,0
+2025-01-09,34.25,3,Social Media,Tablet,Windows,60.41,0
+2025-02-14,9.58,6,Referral,Mobile,iOS,65.25,0
+2025-02-05,303.52,2,Social Media,Tablet,iOS,52.09,1
+2025-02-07,113.22,7,Direct,Tablet,macOS,57.01,0
+2025-01-03,213.13,5,Social Media,Mobile,Linux,22.41,0
+2025-01-04,714.38,5,Direct,Mobile,macOS,64.73,0
+2025-03-28,86.02,6,Social Media,Tablet,macOS,25.7,0
+2025-02-14,158.48,1,Referral,Tablet,Linux,50.45,0
+2025-03-02,,10,Referral,Mobile,Windows,40.49,0
+2025-03-16,77.94,2,Direct,Desktop,iOS,58.18,0
+2025-02-16,24.03,5,Email,Mobile,macOS,29.34,0
+2025-03-14,102.64,4,Referral,Tablet,Linux,68.42,0
+2025-02-19,52.74,5,Email,Mobile,Android,75.65,0
+2025-03-02,796.49,4,Paid Search,Desktop,macOS,31.43,0
+2025-01-13,495.27,5,Direct,Mobile,iOS,27.3,0
+2025-03-03,301.05,6,Referral,Tablet,Windows,30.19,0
+2025-02-20,615.46,1,Organic Search,Mobile,macOS,81.4,1
+2025-01-19,488.39,3,Paid Search,Tablet,macOS,56.97,0
+2025-02-21,61.95,2,Email,Tablet,Linux,52.71,0
+2025-02-07,669.24,5,Referral,Mobile,Android,27.47,0
+2025-02-09,232.53,4,Direct,Tablet,Android,65.47,0
+2025-03-04,494.2,7,Social Media,Tablet,Windows,80.76,0
+2025-01-02,679.27,7,Organic Search,Desktop,iOS,77.97,1
+2025-02-23,114.82,2,Email,Desktop,Windows,63.82,0
+2025-01-19,34.98,6,Paid Search,Desktop,macOS,25.27,0
+2025-02-06,77.61,7,Direct,Desktop,macOS,27.87,0
+2025-02-09,167.12,2,Organic Search,Tablet,Android,23.45,0
+2025-01-18,511.15,7,Direct,Mobile,iOS,38.02,0
+2025-03-10,591.4,5,Referral,Tablet,Linux,29.5,1
+2025-03-30,2.09,7,Social Media,Tablet,iOS,38.2,0
+2025-03-11,214.46,6,Paid Search,Tablet,macOS,46.95,0
+2025-03-16,,5,Direct,Mobile,Linux,86.01,0
+2025-01-08,75.35,6,Email,Desktop,iOS,62.73,0
+2025-01-14,38.3,5,Referral,Tablet,iOS,78.45,0
+2025-01-09,123.57,4,Referral,Tablet,Linux,69.72,0
+2025-01-27,858.94,7,Paid Search,Desktop,macOS,27.88,0
+2025-03-06,117.12,1,Referral,Tablet,iOS,71.51,0
+2025-02-09,,8,Email,Mobile,Linux,39.26,0
+2025-01-21,364.23,4,Direct,Tablet,macOS,64.74,0
+2025-01-04,135.59,5,Paid Search,Tablet,Linux,43.87,0
+2025-02-22,1070.34,3,Referral,Desktop,Linux,89.84,0
+2025-01-02,984.6,7,Referral,Tablet,iOS,38.45,0
+2025-01-19,87.02,2,Email,Tablet,macOS,39.54,0
+2025-02-12,206.3,5,Social Media,Mobile,iOS,85.15,0
+2025-02-11,107.38,10,Social Media,Desktop,Windows,21.73,0
+2025-03-18,100.57,7,Referral,Desktop,Windows,68.77,0
+2025-02-02,11.28,7,Direct,Mobile,macOS,70.77,1
+2025-01-09,282.15,10,Paid Search,Tablet,Linux,78.55,0
+2025-01-05,209.56,1,Referral,Desktop,iOS,88.21,0
+2025-03-23,15.86,5,Organic Search,Desktop,iOS,88.29,0
+2025-01-10,97.99,3,Paid Search,Tablet,macOS,24.57,0
+2025-03-10,716.66,8,Social Media,Tablet,macOS,77.53,0
+2025-02-18,82.16,7,Referral,Desktop,Windows,65.24,0
+2025-03-09,46.96,3,Email,Tablet,Android,65.31,0
+2025-01-03,201.68,1,Organic Search,Desktop,macOS,28.98,0
+2025-01-09,1273.21,5,Referral,Tablet,Android,65.51,0
+2025-03-07,83.14,3,Direct,Tablet,macOS,88.77,0
+2025-01-09,334.55,6,Organic Search,Mobile,Linux,83.83,0
+2025-02-02,430.17,3,Referral,Tablet,Linux,50.74,0
+2025-03-12,81.4,4,Direct,Mobile,Windows,22.8,0
+2025-03-26,390.82,5,Organic Search,Tablet,Windows,45.36,0
+2025-03-01,137.56,8,Direct,Desktop,Android,77.85,0
+2025-03-26,300.15,7,Direct,Desktop,macOS,69.1,1
+2025-03-20,301.15,5,Organic Search,Tablet,iOS,52.15,0
+2025-01-14,230.22,4,Organic Search,Tablet,Windows,23.86,0
+2025-03-09,28.39,6,Direct,Desktop,iOS,49.88,0
+2025-01-20,541.09,8,Social Media,Tablet,iOS,52.83,0
+2025-02-11,116.04,4,Organic Search,Mobile,macOS,85,0
+2025-02-23,61.93,3,Referral,Mobile,Android,64.88,0
+2025-01-19,12.49,2,Paid Search,Mobile,macOS,41.82,0
+2025-02-25,268.13,3,Email,Mobile,Windows,56.77,0
+2025-01-01,339.56,9,Direct,Mobile,iOS,24.62,0
+2025-02-07,5.02,5,Direct,Tablet,macOS,88.08,1
+2025-01-07,215.29,4,Email,Tablet,macOS,45.2,0
+2025-01-11,77.05,7,Social Media,Mobile,macOS,53.45,0
+2025-01-14,310.84,8,Email,Tablet,Windows,44.87,0
+2025-02-04,57.48,,Organic Search,Tablet,Android,67.78,0
+2025-03-01,352.26,4,Email,Mobile,macOS,66.36,0
+2025-03-01,146.69,8,Direct,Tablet,Windows,70.07,0
+2025-01-28,828.1,5,Email,Tablet,iOS,38.77,0
+2025-03-27,44.38,5,Paid Search,Tablet,Linux,42.1,0
+2025-02-19,125.14,6,Referral,Mobile,Windows,28.77,1
+2025-02-25,36.13,7,Organic Search,Tablet,Linux,65.89,0
+2025-02-11,775.86,2,Email,Desktop,macOS,22.79,0
+2025-01-18,629.5,1,Direct,Desktop,macOS,61.84,1
+2025-01-15,89.5,7,Referral,Mobile,Windows,80.88,0
+2025-02-09,323.63,5,Organic Search,Desktop,Linux,82.36,0
+2025-03-04,509.85,4,Direct,Mobile,macOS,51.43,0
+2025-01-20,243.04,4,Social Media,Desktop,iOS,52.15,0
+2025-03-07,226.28,3,Paid Search,Desktop,Android,25.39,0
+2025-03-17,83.06,8,Social Media,Desktop,Android,66.95,0
+2025-01-17,29.32,7,Paid Search,Mobile,macOS,77.49,0
+2025-02-05,682.54,1,Email,Mobile,Linux,37.13,0
+2025-03-05,692.03,2,Organic Search,Tablet,macOS,49.49,0
+2025-02-06,300.8,4,Email,Mobile,Linux,78.72,0
+2025-01-31,124.21,6,Paid Search,Desktop,iOS,81.4,0
+2025-01-06,128.87,4,Paid Search,Desktop,Linux,37.02,0
+2025-02-05,388.34,6,Paid Search,Mobile,macOS,58.54,0
+2025-01-30,682.23,8,Referral,Mobile,iOS,33.47,0
+2025-03-18,654.34,7,Direct,Mobile,Windows,27.13,0
+2025-01-30,454.07,5,Organic Search,Tablet,Android,83.78,0
+2025-03-21,308.19,2,Email,Desktop,macOS,77.44,0
+2025-02-08,26.37,1,Email,Tablet,macOS,73.2,0
+2025-03-23,52.89,7,Social Media,Tablet,macOS,23.41,0
+2025-01-21,686.47,4,Paid Search,Desktop,iOS,79.06,0
+2025-01-27,279.75,1,Paid Search,Desktop,Windows,50.66,0
+2025-02-23,2.77,6,Paid Search,Mobile,Linux,43.97,1
+2025-02-19,,5,Email,Mobile,Windows,58.25,0
+2025-03-08,326.75,8,Social Media,Tablet,iOS,26.39,0
+2025-02-12,1.52,5,Direct,Mobile,macOS,72.97,0
+2025-01-09,52.59,4,Referral,Mobile,Android,60.77,1
+2025-01-06,238.71,10,Organic Search,Desktop,macOS,33.06,0
+2025-02-03,353.19,7,Direct,Desktop,Linux,33.18,0
+2025-01-01,316.63,4,Email,Mobile,Android,32.9,0
+2025-03-21,76.18,8,Referral,Desktop,macOS,23.99,0
+2025-02-27,373.63,5,Referral,Mobile,Android,61.15,0
+2025-01-27,81.25,5,Referral,Desktop,Windows,78.82,0
+2025-02-20,118.09,5,Paid Search,Desktop,iOS,21.22,1
+2025-01-20,411.71,2,Organic Search,Desktop,macOS,23.43,1
+2025-03-30,314.63,3,Email,Desktop,Linux,60.09,1
+2025-02-24,567.59,4,Email,Mobile,Windows,77.36,0
+2025-03-28,321.54,9,Referral,Tablet,macOS,42.87,0
+2025-01-08,252.01,0,Email,Desktop,Windows,44.47,0
+2025-01-26,29.51,5,Organic Search,Mobile,Linux,61.74,0
+2025-01-17,137.52,5,Organic Search,Mobile,macOS,39.19,0
+2025-01-29,92.45,5,Social Media,Desktop,Linux,21.86,0
+2025-01-27,83.91,5,Social Media,Tablet,Android,71.47,0
+2025-01-08,1083.69,4,Direct,Desktop,Linux,63.8,0
+2025-01-09,149.82,9,Organic Search,Mobile,Android,60.65,0
+2025-01-23,667.82,6,Organic Search,Tablet,macOS,71.92,0
+2025-02-19,299.2,2,Organic Search,Mobile,Android,67.27,0
+2025-02-25,475.15,6,Social Media,Desktop,macOS,34.41,0
+2025-01-02,209.53,,Referral,Tablet,macOS,44.67,0
+2025-01-12,258.05,6,Referral,Mobile,iOS,28.83,0
+2025-02-06,203.49,5,Email,Mobile,macOS,29.09,0
+2025-01-15,65.16,2,Referral,Mobile,Android,67.33,0
+2025-01-05,384.53,5,Paid Search,Desktop,iOS,80.1,0
+2025-01-22,98.87,3,Social Media,Tablet,iOS,87.39,0
+2025-01-22,7.38,3,Organic Search,Desktop,macOS,63.98,0
+2025-01-18,311.09,3,Referral,Desktop,Linux,32.89,0
+2025-02-12,58.48,6,Social Media,Desktop,Linux,27.4,1
+2025-02-20,846.32,6,Referral,Tablet,iOS,76.9,0
+2025-01-07,923.27,4,Direct,Desktop,macOS,60.51,1
+2025-03-16,739.05,5,Organic Search,Desktop,Linux,63.28,0
+2025-02-24,138.69,5,Direct,Desktop,macOS,74.7,0
+2025-01-03,4.67,7,Organic Search,Desktop,macOS,69.23,1
+2025-01-15,790.66,5,Social Media,Mobile,iOS,78.41,0
+2025-01-19,167.68,3,Email,Desktop,iOS,23.93,0
+2025-02-17,1020.25,4,Referral,Mobile,Windows,72.33,0
+2025-01-27,994.12,7,Referral,Desktop,Linux,79.56,0
+2025-01-28,575.22,5,Paid Search,Tablet,Linux,40.03,1
+2025-03-13,104.63,7,Direct,Mobile,Linux,64.83,0
+2025-03-09,145.89,8,Referral,Mobile,Android,41.99,0
+2025-01-15,571.42,7,Social Media,Mobile,macOS,87.06,0
+2025-02-08,114.34,5,Email,Mobile,iOS,22.34,0
+2025-01-16,55.72,8,Social Media,Tablet,Linux,60.59,0
+2025-03-15,244.12,4,Direct,Desktop,Windows,31.66,0
+2025-01-22,825.39,6,Paid Search,Mobile,Linux,69.86,0
+2025-03-28,357.25,8,Referral,Tablet,macOS,32.31,0
+2025-01-17,253.23,6,Social Media,Mobile,macOS,36.48,0
+2025-01-13,30.67,3,Organic Search,Desktop,iOS,54.61,0
+2025-01-30,286.36,8,Email,Mobile,Android,84.04,0
+2025-01-05,1383.17,4,Social Media,Tablet,iOS,34.82,0
+2025-02-18,45.28,7,Email,Desktop,Linux,30.1,0
+2025-03-28,219.15,2,Referral,Tablet,Windows,73.13,0
+2025-01-24,629.58,10,Organic Search,Desktop,iOS,55.04,1
+2025-01-12,405.01,6,Paid Search,Desktop,Android,83.82,0
+2025-01-29,358.22,4,Paid Search,Desktop,iOS,30.26,1
+2025-01-10,363.69,5,Organic Search,Mobile,macOS,65.21,0
+2025-01-08,133.65,6,Email,Tablet,Linux,36.3,0
+2025-03-24,104.27,4,Referral,Tablet,Linux,30.97,0
+2025-01-24,497.21,5,Social Media,Tablet,Linux,67.84,1
+2025-01-12,498.4,6,Organic Search,Desktop,Linux,61.56,0
+2025-01-02,605.39,3,Direct,Mobile,Linux,72.84,1
+2025-03-12,733.38,7,Email,Desktop,Linux,41.66,1
+2025-03-04,214.83,7,Paid Search,Tablet,Windows,51.36,0
+2025-03-10,208.86,8,Organic Search,Mobile,Android,48.38,0
+2025-02-22,480.28,4,Paid Search,Mobile,Linux,88.89,0
+2025-03-31,314.92,7,Email,Mobile,Android,40.46,0
+2025-02-22,363.17,3,Paid Search,Tablet,Linux,40.64,0
+2025-01-25,476.59,4,Organic Search,Mobile,iOS,44.82,0
+2025-02-28,662.2,4,Email,Mobile,Linux,59.52,0
+2025-02-02,123.74,0,Direct,Desktop,macOS,37.66,0
+2025-02-04,141.28,1,Organic Search,Desktop,Windows,84.07,0
+2025-01-12,29.61,1,Social Media,Mobile,iOS,38.6,0
+2025-01-26,259.02,7,Referral,Mobile,iOS,82.71,0
+2025-02-28,10.98,5,Organic Search,Desktop,macOS,27.24,0
+2025-01-29,187.98,5,Email,Desktop,Linux,65.96,0
+2025-01-10,234.69,8,Referral,Desktop,Windows,83.49,0
+2025-02-22,101.29,3,Organic Search,Tablet,iOS,31.81,0
+2025-02-08,268.09,5,Direct,Tablet,Windows,87.78,0
+2025-02-02,,3,Direct,Desktop,iOS,51.7,0
+2025-02-13,11.42,5,Social Media,Mobile,Linux,86.2,0
+2025-03-21,518.81,1,Paid Search,Desktop,iOS,67.38,0
+2025-03-23,133.98,7,Referral,Tablet,iOS,41.11,1
+2025-03-04,40.77,2,Email,Mobile,Android,33.18,0
+2025-02-07,221.6,4,Email,Tablet,Linux,41.26,0
+2025-02-04,440.89,6,Paid Search,Mobile,macOS,26.51,0
+2025-03-17,72.94,7,Direct,Tablet,macOS,30.07,0
+2025-03-27,292.57,9,Direct,Mobile,Linux,27.33,0
+2025-01-18,26.76,4,Organic Search,Mobile,macOS,49.61,0
+2025-02-18,15.92,1,Social Media,Mobile,Linux,75.69,0
+2025-03-02,227.37,4,Referral,Mobile,macOS,29.9,0
+2025-03-05,233.37,6,Social Media,Tablet,Android,29.12,0
+2025-02-17,304.36,3,Social Media,Tablet,macOS,65.04,0
+2025-01-26,388.49,4,Organic Search,Mobile,iOS,33.8,1
+2025-03-27,1117.07,2,Social Media,Mobile,Linux,26.83,0
+2025-01-15,217.89,6,Paid Search,Tablet,Windows,31.68,0
+2025-01-26,117.01,8,Organic Search,Mobile,Windows,84.66,0
+2025-03-11,475.7,7,Paid Search,Mobile,Linux,77.5,0
+2025-02-08,94.76,2,Organic Search,Mobile,Android,44.78,0
+2025-01-19,173.4,6,Social Media,Desktop,macOS,65.91,0
+2025-03-20,24.51,9,Paid Search,Mobile,Android,57.61,0
+2025-01-10,7.7,3,Paid Search,Desktop,Windows,67.4,0
+2025-02-24,986.21,8,Paid Search,Mobile,Linux,67.79,0
+2025-03-28,542.33,7,Organic Search,Tablet,Linux,64.01,0
+2025-02-20,357.19,6,Email,Desktop,Android,38.63,0
+2025-01-29,157.76,10,Social Media,Desktop,Android,22.73,0
+2025-02-13,57.09,5,Paid Search,Mobile,macOS,51.89,0
+2025-03-10,51.04,5,Referral,Mobile,iOS,82.37,0
+2025-03-18,86.4,5,Email,Desktop,iOS,59.86,0
+2025-01-25,239.04,5,Referral,Tablet,macOS,78.27,0
+2025-02-19,376.15,4,Social Media,Tablet,iOS,89.41,0
+2025-02-11,323.82,10,Social Media,Mobile,Windows,31.45,0
+2025-02-12,98.52,3,Paid Search,Tablet,iOS,68.42,0
+2025-03-28,929.43,2,Paid Search,Tablet,macOS,67.2,0
+2025-03-01,401.71,6,Organic Search,Mobile,iOS,88.6,1
+2025-01-07,242.47,4,Email,Tablet,Linux,88.99,0
+2025-02-21,283.81,4,Email,Mobile,Android,68.07,0
+2025-01-29,163.21,8,Paid Search,Desktop,Windows,37.05,0
+2025-03-18,85.4,5,Social Media,Mobile,Linux,75.9,0
+2025-03-25,132,4,Paid Search,Desktop,Linux,27.49,0
+2025-01-05,425.45,7,Social Media,Desktop,macOS,74.65,0
+2025-01-28,4.35,4,Social Media,Tablet,Android,83.71,1
+2025-03-06,37.01,2,Paid Search,Tablet,Android,46.8,1
+2025-03-13,14.13,2,Direct,Tablet,Windows,64.14,0
+2025-01-06,12.47,3,Email,Mobile,macOS,50.11,0
+2025-03-05,580.26,3,Referral,Tablet,Windows,50.64,1
+2025-01-07,364.87,8,Social Media,Desktop,iOS,41.73,0
+2025-01-13,192.84,6,Social Media,Tablet,Linux,73.35,0
+2025-01-06,30.89,0,Direct,Tablet,Windows,85.53,0
+2025-03-15,202.96,8,Referral,Mobile,Linux,85.85,0
+2025-02-02,192.44,5,Organic Search,Mobile,macOS,32.23,0
+2025-01-02,57.06,4,Direct,Desktop,iOS,81.23,0
+2025-02-19,170.67,5,Referral,Mobile,macOS,71.62,0
+2025-03-05,152.5,7,Direct,Tablet,iOS,37.7,0
+2025-03-27,287.02,6,Social Media,Mobile,iOS,24.71,0
+2025-03-10,302.43,3,Email,Desktop,Linux,38.76,0
+2025-03-21,,4,Direct,Tablet,macOS,83.85,0
+2025-02-16,140.82,2,Organic Search,Desktop,macOS,64.32,0
+2025-02-08,294.94,4,Paid Search,Mobile,Windows,70.47,0
+2025-02-03,209.83,1,Referral,Mobile,macOS,38,1
+2025-02-07,582.4,9,Direct,Desktop,Windows,70.36,1
+2025-03-14,322.49,3,Direct,Tablet,Android,21.97,0
+2025-03-18,53.36,1,Organic Search,Mobile,Android,46.27,0
+2025-02-03,21.95,5,Email,Mobile,Android,63.87,0
+2025-02-03,308.52,4,Direct,Tablet,macOS,30.23,0
+2025-01-30,8.06,6,Direct,Mobile,macOS,77.61,1
+2025-02-15,264.4,5,Email,Desktop,Windows,36.45,1
+2025-02-06,845.18,8,Organic Search,Mobile,iOS,65.66,0
+2025-01-07,257.03,5,Referral,Mobile,Windows,48.36,0
+2025-03-09,147.39,7,Referral,Tablet,Android,61.72,0
+2025-03-13,309.25,4,Direct,Desktop,Windows,27.52,0
+2025-01-28,183.89,1,Email,Tablet,iOS,21.18,0
+2025-01-26,236.64,5,Direct,Mobile,macOS,83.67,0
+2025-01-17,851.44,4,Paid Search,Mobile,Windows,38.87,0
+2025-01-13,146.38,3,Referral,Tablet,Android,77.38,0
+2025-02-28,974.73,2,Social Media,Tablet,Android,89.95,0
+2025-01-01,707.27,12,Paid Search,Tablet,macOS,34.8,0
+2025-01-26,65.37,5,Direct,Desktop,Windows,38.56,0
+2025-02-28,21.57,10,Organic Search,Mobile,iOS,66.4,0
+2025-01-19,31.87,6,Referral,Tablet,macOS,87.58,0
+2025-02-28,5.52,1,Social Media,Mobile,Windows,84.11,0
+2025-01-01,29.76,6,Paid Search,Desktop,Linux,55.2,1
+2025-03-18,344.66,2,Referral,Desktop,Android,75.66,0
+2025-01-08,22.15,4,Email,Desktop,iOS,29.5,0
+2025-01-25,115.25,5,Organic Search,Desktop,iOS,88.42,0
+2025-02-20,559.06,8,Paid Search,Mobile,iOS,87.5,0
+2025-02-06,7.06,4,Email,Desktop,Android,31.46,1
+2025-03-13,505.36,2,Direct,Desktop,Windows,40.96,0
+2025-03-22,99.33,1,Email,Tablet,macOS,27.01,1
+2025-02-02,37.73,8,Paid Search,Desktop,Windows,39.02,0
+2025-01-04,357.95,8,Paid Search,Tablet,macOS,77.12,1
+2025-01-02,297.42,4,Direct,Desktop,iOS,46.48,0
+2025-01-18,629.82,1,Email,Desktop,Windows,26.19,1
+2025-02-09,398.49,9,Email,Tablet,iOS,43.96,0
+2025-03-05,488.1,4,Direct,Desktop,Linux,88.7,0
+2025-01-09,99.4,2,Email,Mobile,iOS,64.08,0
+2025-02-20,58.6,4,Referral,Mobile,iOS,49.13,1
+2025-02-22,416.63,3,Direct,Desktop,macOS,31.66,0
+2025-01-10,493.26,8,Organic Search,Mobile,Linux,89.03,0
+2025-03-31,1397.1,9,Paid Search,Tablet,iOS,77.46,1
+2025-03-03,159.62,4,Organic Search,Desktop,iOS,39.7,0
+2025-01-13,139.57,4,Referral,Desktop,Linux,24.9,0
+2025-02-02,449.39,5,Referral,Tablet,Linux,23.96,0
+2025-02-20,125.02,11,Social Media,Tablet,Windows,28.43,0
+2025-03-05,801.04,8,Social Media,Tablet,macOS,60.65,1
+2025-01-27,586.45,6,Social Media,Desktop,Linux,85.01,0
+2025-03-19,168.11,2,Direct,Tablet,Linux,54.77,0
+2025-01-07,416.94,8,Email,Tablet,Android,79.01,1
+2025-03-04,421.39,7,Referral,Mobile,Linux,51.21,0
+2025-02-16,32.65,6,Organic Search,Mobile,macOS,69.6,0
+2025-02-05,698.53,5,Organic Search,Desktop,iOS,71.23,0
+2025-02-28,211.11,3,Organic Search,Mobile,iOS,32.18,0
+2025-03-23,525.4,5,Organic Search,Mobile,iOS,45.29,0
+2025-02-02,115.72,3,Social Media,Tablet,iOS,64.61,1
+2025-03-30,677.64,3,Organic Search,Tablet,Android,24.95,0
+2025-02-15,147.9,7,Email,Mobile,Linux,45.31,0
+2025-01-17,3.27,4,Social Media,Mobile,iOS,57.44,0
+2025-03-20,707.37,4,Organic Search,Mobile,Windows,89.74,0
+2025-01-08,28.72,6,Direct,Desktop,iOS,53.22,1
+2025-03-27,115.4,6,Paid Search,Desktop,Linux,77.12,1
+2025-01-05,899.09,3,Paid Search,Desktop,iOS,50.24,0
+2025-03-01,902.38,4,Paid Search,Mobile,Android,75.75,0
+2025-01-17,255.6,6,Social Media,Mobile,macOS,61.68,0
+2025-02-21,299.77,6,Organic Search,Desktop,macOS,82.06,0
+2025-01-19,178.5,6,Referral,Desktop,Linux,48.77,0
+2025-03-02,104.11,6,Referral,Mobile,macOS,62.3,0
+2025-03-09,119.55,3,Referral,Tablet,macOS,64.1,0
+2025-02-23,334.9,5,Social Media,Desktop,Windows,49.22,0
+2025-01-11,418.75,2,Email,Mobile,Linux,30.1,0
+2025-02-10,470.46,5,Direct,Mobile,Linux,26.55,0
+2025-03-13,467.65,3,Direct,Tablet,macOS,21.17,0
+2025-03-14,28.69,3,Paid Search,Mobile,macOS,81.15,0
+2025-01-28,204.61,5,Paid Search,Mobile,macOS,36.55,0
+2025-01-24,17.78,11,Referral,Desktop,Android,34.81,1
+2025-03-11,239.24,7,Referral,Desktop,iOS,71.52,0
+2025-02-13,174.77,7,Paid Search,Tablet,Android,42.4,0
+2025-03-12,655.99,4,Organic Search,Tablet,Linux,55.42,0
+2025-03-20,129.66,1,Email,Mobile,Windows,31.38,0
+2025-01-20,37.35,4,Email,Desktop,iOS,87.18,1
+2025-03-30,46.29,5,Email,Tablet,Windows,79.61,0
+2025-03-29,430.03,4,Email,Tablet,Linux,80.47,0
+2025-01-20,288.87,4,Paid Search,Tablet,Linux,48.47,1
+2025-01-01,31.98,7,Direct,Mobile,Windows,73.37,0
+2025-03-20,26.36,6,Paid Search,Desktop,Windows,30.07,0
+2025-02-02,362.16,8,Email,Tablet,Windows,20.6,0
+2025-03-15,22.66,4,Paid Search,Desktop,Linux,21.4,0
+2025-02-14,517.56,3,Email,Tablet,macOS,61.06,0
+2025-01-08,367.5,0,Social Media,Tablet,Windows,51.88,0
+2025-01-29,25.45,4,Referral,Desktop,iOS,56.26,0
+2025-02-27,26.6,1,Direct,Desktop,Linux,20.52,1
+2025-02-14,1294.64,4,Social Media,Desktop,Android,49.59,0
+2025-02-21,140.65,3,Organic Search,Mobile,Android,70.26,0
+2025-02-04,138.92,5,Paid Search,Tablet,iOS,50.99,0
+2025-03-29,502.67,6,Organic Search,Mobile,macOS,71.26,0
+2025-02-09,882.65,6,Paid Search,Desktop,Windows,36.31,0
+2025-01-01,1280.63,4,Referral,Tablet,Linux,76.92,1
+2025-01-10,,4,Social Media,Mobile,Windows,61.19,0
+2025-02-11,,5,Referral,Tablet,Linux,34.75,0
+2025-02-08,26.16,1,Email,Mobile,Android,36.57,0
+2025-01-06,450.37,9,Referral,Desktop,Windows,63.96,0
+2025-03-23,245.21,7,Referral,Mobile,iOS,78.1,1
+2025-03-30,165.61,5,Email,Tablet,macOS,49.09,0
+2025-02-08,710.47,4,Paid Search,Tablet,iOS,38.08,1
+2025-01-16,35.36,,Email,Tablet,macOS,80.69,0
+2025-03-10,203.55,4,Social Media,Tablet,Windows,66.85,0
+2025-02-14,3.43,1,Referral,Desktop,Windows,51.37,0
+2025-02-23,189.71,3,Email,Mobile,macOS,54.15,0
+2025-02-05,17.39,7,Referral,Desktop,Android,34.3,0
+2025-03-07,37.95,6,Social Media,Desktop,Linux,63.88,0
+2025-03-16,37.51,,Organic Search,Desktop,iOS,45.11,0
+2025-03-26,,4,Social Media,Tablet,iOS,89.7,0
+2025-01-22,411.18,5,Direct,Tablet,iOS,53.61,0
+2025-01-26,262.67,6,Direct,Tablet,Windows,54.01,0
+2025-02-23,982.42,6,Direct,Mobile,iOS,59.61,1
+2025-01-11,140.94,8,Referral,Tablet,Linux,84.17,0
+2025-01-21,100.94,4,Paid Search,Mobile,Linux,76.06,0
+2025-02-28,608.85,3,Paid Search,Tablet,macOS,51.58,0
+2025-02-07,75.92,3,Paid Search,Tablet,Windows,70.31,0
+2025-03-26,990.86,9,Referral,Desktop,Linux,61.04,0
+2025-03-26,3.67,7,Social Media,Desktop,Android,54.47,0
+2025-02-28,1050.76,2,Paid Search,Desktop,Windows,33.46,0
+2025-01-17,13.24,2,Organic Search,Mobile,Windows,52.48,1
+2025-02-07,665.32,4,Direct,Mobile,Linux,37.21,0
+2025-02-24,225.04,6,Social Media,Tablet,Android,84.04,0
+2025-01-15,1487.05,9,Direct,Mobile,macOS,43.48,0
+2025-02-05,23,11,Paid Search,Tablet,Linux,86.66,0
+2025-01-03,242.13,4,Social Media,Mobile,Android,57.31,0
+2025-03-25,1045.07,7,Email,Mobile,Windows,64.21,0
+2025-01-30,222.13,7,Organic Search,Mobile,Android,58.01,0
+2025-03-14,297.79,3,Paid Search,Desktop,Windows,29.06,0
+2025-02-12,,7,Paid Search,Mobile,Linux,46.31,0
+2025-03-12,181.84,5,Organic Search,Desktop,Linux,26.94,0
+2025-03-04,296.3,2,Organic Search,Desktop,iOS,63.61,0
+2025-03-06,263.35,9,Email,Mobile,iOS,51.28,0
+2025-01-05,694.27,6,Paid Search,Tablet,iOS,74.46,1
+2025-01-06,13.95,3,Referral,Tablet,Linux,35.43,1
+2025-01-24,98.95,,Paid Search,Tablet,macOS,31.52,0
+2025-03-20,901.2,3,Direct,Mobile,Linux,48.44,0
+2025-03-09,662.9,2,Social Media,Tablet,Android,84.86,0
+2025-03-06,182.45,8,Social Media,Desktop,Linux,69.73,0
+2025-02-03,290.38,4,Direct,Tablet,Linux,49.32,0
+2025-03-23,97.46,5,Social Media,Mobile,Windows,56.21,0
+2025-02-08,62.52,4,Organic Search,Tablet,Windows,25.89,0
+2025-03-09,186.92,3,Social Media,Desktop,Windows,88.92,0
+2025-03-07,130.79,4,Social Media,Mobile,Linux,66.65,0
+2025-03-01,262.87,3,Direct,Tablet,macOS,39.98,1
+2025-03-26,24.28,11,Email,Mobile,Android,61.01,0
+2025-02-26,1099.49,6,Social Media,Mobile,Android,27.66,0
+2025-02-12,1285.16,5,Referral,Mobile,macOS,87.61,0
+2025-03-15,359.36,5,Social Media,Tablet,macOS,32.23,0
+2025-01-02,230.42,5,Email,Mobile,Android,65.36,0
+2025-03-03,111.11,3,Direct,Tablet,iOS,37.18,0
+2025-01-20,504.27,6,Email,Desktop,Windows,70.23,1
+2025-03-05,346.3,,Direct,Tablet,Windows,74.38,0
+2025-02-23,53.24,5,Organic Search,Desktop,Android,67.14,0
+2025-02-18,725.49,3,Direct,Tablet,macOS,63.01,0
+2025-02-15,518.7,7,Organic Search,Mobile,iOS,82.47,0
+2025-02-08,897.52,3,Organic Search,Tablet,Android,25.5,0
+2025-02-24,388.08,6,Direct,Mobile,Windows,43.16,1
+2025-01-21,285.12,7,Referral,Desktop,Linux,37.38,1
+2025-01-21,162.51,1,Paid Search,Tablet,macOS,89.16,0
+2025-02-09,809.71,6,Direct,Mobile,Linux,47.26,0
+2025-01-01,603.12,4,Social Media,Desktop,Android,71.28,0
+2025-02-04,13.88,2,Referral,Desktop,Windows,67.93,0
+2025-02-02,8.02,2,Referral,Tablet,iOS,34.85,1
+2025-01-27,141.7,5,Social Media,Desktop,Linux,36.73,0
+2025-03-05,499.09,5,Paid Search,Mobile,iOS,39.69,0
+2025-02-14,1309.28,3,Referral,Desktop,Windows,48.78,0
+2025-03-13,48.9,5,Organic Search,Desktop,Linux,36.4,0
+2025-02-17,270.52,11,Paid Search,Mobile,iOS,21.38,1
+2025-02-07,143.84,2,Social Media,Desktop,iOS,81.56,0
+2025-01-29,1051.11,6,Paid Search,Desktop,Linux,87.59,0
+2025-01-20,553.77,5,Direct,Desktop,Windows,43.91,0
+2025-01-01,546.66,3,Paid Search,Desktop,iOS,43.7,0
+2025-03-05,189.72,4,Organic Search,Mobile,Android,20.5,0
+2025-01-06,160.75,10,Direct,Desktop,Linux,67.62,0
+2025-02-24,95.82,1,Email,Mobile,macOS,77.78,0
+2025-02-26,17.41,8,Social Media,Desktop,macOS,30.26,0
+2025-02-03,600.13,3,Social Media,Desktop,Windows,31.18,0
+2025-03-28,502.84,5,Paid Search,Desktop,Android,75.31,0
+2025-03-16,2451.73,4,Referral,Desktop,iOS,63.14,0
+2025-02-20,1708.46,11,Direct,Mobile,macOS,23.14,0
+2025-02-02,243.2,3,Email,Mobile,Windows,63.58,0
+2025-03-29,439.58,4,Direct,Mobile,Android,41.62,0
+2025-01-25,868.85,3,Social Media,Tablet,Android,45.81,0
+2025-03-08,568.43,3,Direct,Desktop,Windows,73.88,0
+2025-02-14,85.25,8,Email,Desktop,Windows,76.77,1
+2025-02-05,179.65,1,Referral,Mobile,iOS,48.02,0
+2025-03-07,41.49,5,Paid Search,Tablet,Windows,86.3,0
+2025-01-09,924.07,7,Organic Search,Desktop,iOS,48.45,0
+2025-03-02,279.55,3,Direct,Mobile,iOS,74.03,0
+2025-02-18,77.88,7,Organic Search,Desktop,Linux,53.87,0
+2025-02-14,334.15,5,Social Media,Desktop,Android,82.83,0
+2025-01-21,288.8,7,Paid Search,Mobile,Android,83.54,0
+2025-02-14,133.03,5,Paid Search,Mobile,Android,26.12,0
+2025-03-23,36.16,7,Direct,Desktop,Linux,85.55,0
+2025-02-26,334.03,5,Referral,Desktop,iOS,77.79,0
+2025-02-09,220.38,4,Paid Search,Mobile,iOS,75.39,0
+2025-01-22,443.94,5,Direct,Desktop,Windows,34.06,0
+2025-02-23,220.29,11,Direct,Desktop,Linux,76.36,0
+2025-03-27,573.53,7,Organic Search,Mobile,Windows,79.51,1
+2025-03-13,240.83,6,Paid Search,Desktop,Linux,40.24,0
+2025-03-30,246.93,3,Direct,Desktop,Windows,86.66,0
+2025-01-06,627.83,0,Organic Search,Tablet,macOS,23.49,1
+2025-01-05,154.99,10,Email,Mobile,Android,30.49,0
+2025-03-02,43.17,5,Organic Search,Tablet,Android,57.63,0
+2025-01-11,8.76,5,Organic Search,Tablet,iOS,60.31,0
+2025-03-19,422.12,3,Direct,Tablet,macOS,65.16,1
+2025-03-19,290.52,4,Social Media,Desktop,Android,21.19,1
+2025-02-14,365.3,2,Social Media,Desktop,iOS,87.23,0
+2025-01-03,71.84,2,Referral,Tablet,macOS,23.12,0
+2025-02-04,43.98,7,Social Media,Tablet,Android,30.01,0
+2025-01-06,4.4,,Organic Search,Tablet,Windows,20.98,0
+2025-01-21,129.51,1,Referral,Desktop,Linux,59.68,0
+2025-02-06,267.42,3,Direct,Tablet,macOS,85.26,0
+2025-02-03,149.39,7,Paid Search,Tablet,iOS,66.62,0
+2025-02-08,172.6,5,Organic Search,Mobile,macOS,77.59,0
+2025-01-29,703.52,5,Organic Search,Mobile,iOS,20.93,0
+2025-02-19,128.43,4,Referral,Desktop,macOS,57.94,0
+2025-03-29,216.46,5,Direct,Mobile,iOS,52.17,0
+2025-02-05,459.26,5,Email,Mobile,Android,54.93,1
+2025-02-21,151.52,3,Organic Search,Mobile,Windows,25.05,0
+2025-03-03,291.93,3,Email,Desktop,Android,67.91,0
+2025-02-04,594.94,6,Email,Mobile,Windows,55.23,0
+2025-03-21,895.86,6,Social Media,Desktop,Android,73.56,0
+2025-02-28,47.72,4,Direct,Tablet,Android,53.97,1
+2025-01-11,783.5,9,Email,Mobile,macOS,30.46,0
+2025-02-27,203.25,6,Direct,Desktop,Linux,65.38,0
+2025-01-11,89.62,5,Social Media,Mobile,iOS,32.07,0
+2025-01-08,184.38,5,Direct,Tablet,iOS,81.07,0
+2025-01-20,1174.1,4,Organic Search,Desktop,iOS,62.92,0
+2025-03-07,203.55,10,Email,Desktop,Windows,31,0
+2025-01-03,119.58,6,Direct,Desktop,iOS,87.36,0
+2025-03-05,,2,Paid Search,Tablet,iOS,56.29,0
+2025-01-14,82.39,4,Direct,Tablet,macOS,25.1,0
+2025-03-21,23.67,3,Email,Tablet,Android,63.88,1
+2025-02-23,41.39,2,Social Media,Desktop,iOS,37.72,0
+2025-01-29,41.11,5,Social Media,Tablet,Linux,76.26,1
+2025-03-25,49.43,6,Email,Mobile,iOS,77.25,0
+2025-03-28,44.84,5,Organic Search,Tablet,Windows,88.53,0
+2025-03-10,307.23,10,Organic Search,Desktop,Windows,55.13,0
+2025-02-03,60.22,5,Social Media,Mobile,Windows,51.85,0
+2025-01-14,127.24,5,Social Media,Tablet,iOS,72.74,0
+2025-01-04,681.29,4,Email,Mobile,macOS,29.27,0
+2025-02-19,192.71,4,Organic Search,Mobile,Linux,58.28,0
+2025-03-15,330.39,3,Social Media,Desktop,iOS,58.24,0
+2025-01-14,56.74,6,Organic Search,Mobile,macOS,26.26,0
+2025-01-14,64.07,4,Social Media,Mobile,macOS,49.26,0
+2025-02-04,12.52,2,Direct,Desktop,iOS,79.73,0
