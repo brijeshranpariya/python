@@ -101,11 +101,11 @@ class LibraryDashboard:
 
     def load_data(self, file_path):
         try:
-            df = pd.read_csv(file_path)
+            self.df = pd.read_csv(file_path)
             print("\nFile loaded successfully!")
 
             # Check missing values
-            nulls = df.isna().sum()
+            nulls = self.df.isna().sum()
 
             if nulls.sum() > 0:
                 print("\nMissing values detected:")
